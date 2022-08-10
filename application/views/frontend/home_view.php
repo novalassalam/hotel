@@ -109,9 +109,7 @@
                         </div>
                         <div class="col-lg-9">
                             <div class="availability-form">
-                                <style>
-                                   
-                                </style>
+                              
                                 <form action="#">
                                     <div class="row">
                                         <div class="col-md-3 col-lg-3">
